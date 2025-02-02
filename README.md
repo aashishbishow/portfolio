@@ -121,7 +121,7 @@ reactjs18-3d-portfolio/
   - [Prerequisites](#-prerequisites)
   - [Installation and Run Locally](#-installation-and-run-locally)
   - [Scripts](#-scripts)
-- [Environment Variables](#-environment-variables)
+- [ironment Variables](#-environment-variables)
 - [Deployment](#-deployment)
   - [Deploy to production (manual)](#-deploy-to-production-manual)
   - [Deploy on Vercel (recommended)](#-deploy-on-vercel-recommended)
